@@ -103,10 +103,20 @@ Scan the prose and revise for:
    - "She felt uneasy" → Show the unease through body language, what she notices, physical sensation
    - Every sentence should be concrete enough to picture
 
-2. **Technobabble without meaning**:
+2. **Technobabble without meaning** (zero tolerance):
    - "Structural loads on the resonance array" — sounds like sci-fi but paints no picture
-   - Ask: what IS this physically? What would someone see, hear, touch?
-   - Either make it concrete or simplify/remove
+   - The test: **can you draw what this describes?** If a reader cannot form a mental image from the words, the words are noise
+   - Ask: what IS this physically? What would someone see, hear, touch? What does it do in the scene?
+   - If the technical detail doesn't resolve into something picturable, either make it concrete or cut it entirely — do not leave vague technobabble standing
+   - Watch for technobabble that contradicts itself: equipment described as bespoke and extraordinary, but whose purpose or function is never grounded in the story's actual needs
+
+3. **Verisimilitude** (genre-logic check):
+   - For every concrete detail, ask: **would this actually happen this way in this universe?**
+   - Sci-fi example: "sun-bleached registration stamp" on a space beacon — you'd read a stamp electronically, not squint at it. The detail sounds atmospheric but collapses under a moment's thought
+   - Fantasy example: a character "noting" something specific but the specific thing is never mentioned — either commit to the detail or cut the claim
+   - Historical example: a character using technology or knowledge that didn't exist in the period
+   - This is not about pedantic nitpicking — it's about whether the world holds together when a reader thinks about it for two seconds
+   - If a detail exists only for atmosphere but contradicts how things work, rewrite it so the atmosphere comes from something that's actually true in the setting
 
 3. **Subtext**:
    - Flag dialogue that is "on the nose" — characters saying exactly what they mean
@@ -238,6 +248,12 @@ For each edit, note: "Info-dump → converted to ammunition in dialogue", "Backs
    - Concrete over abstract ("the rusted padlock" not "the old lock")
    - Filter word removal in tight POV: cut "She noticed," "He realized," "She felt" — just show what they notice, realize, feel
 
+6. **Em dash limit**:
+   - Hard maximum: **1-2 em dashes per chapter**. No exceptions
+   - AI text is saturated with em dashes. They are the single most reliable punctuation-level AI tell
+   - For every em dash, try: semicolon, colon, period and new sentence, comma, line break, or rewording
+   - When you find more than 2, keep only the 1-2 strongest uses and rewrite the rest
+
 ### Output
 For each edit, note the rhythm concern addressed.
 
@@ -263,6 +279,8 @@ Apply the humanizer's 25 AI-pattern categories and the prose authenticator's 5-l
    - Excessive three-part lists ("the X, the Y, and the Z")
    - All sentences roughly the same length in a paragraph
    - Purple prose: stacked adjectives and metaphors
+   - **"Not X, but Y" / "Not X — Y" constructions**: "Not fear — concentration," "not irritation, not quite." AI leans on this structure heavily. Once per chapter maximum. Rewrite most instances to show rather than negate-then-state
+   - **Aphoristic non-truths**: Statements that sound wise but aren't actually true or precise. "Instruments lie and people lie, but they don't lie the same way at the same time" — instruments don't lie at all; they show data that humans interpret. If a line sounds like a quotable proverb, interrogate whether it's actually saying something true and specific, or just performing wisdom
 
 3. **Hedging in narrative voice**: "seemed to," "appeared to," "was somewhat," "almost as if"
 
@@ -310,7 +328,8 @@ Then offer:
 
 ## Important Principles
 
+- **Edit aggressively.** When working on a file, make the edits. Do not summarize problems and ask permission — fix them. The user can review the diff and revert anything they disagree with. Timid, advisory-only passes that flag issues without fixing them waste everyone's time.
 - **Targeted, not comprehensive.** Each pass focuses on its specific concern. A `dialogue` pass should not also fix prose rhythm — that's what the `rhythm` pass is for. The `full` pass is for comprehensive treatment.
 - **Show your work.** For each significant edit, note the craft principle that motivated it. This lets the user evaluate whether the skill instructions are producing the right results.
-- **Preserve authorial intent.** Don't rewrite the user's story — improve the craft execution of their vision. Maintain their tone, voice, and genre conventions.
+- **Preserve story direction, not individual sentences.** Maintain the author's tone, genre, characters, and narrative intent. But individual sentences, paragraphs, and even passages are fair game for rewriting if the craft demands it. "Preserve authorial intent" means preserving what the story is trying to do, not leaving weak prose untouched out of deference.
 - **No project required.** The workshop is designed for rapid iteration. Don't ask about project setup, story bibles, or writing plans. Just work on the text.

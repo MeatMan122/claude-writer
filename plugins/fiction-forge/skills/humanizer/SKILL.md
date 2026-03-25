@@ -121,7 +121,7 @@ Avoiding AI patterns is only half the job. Sterile, voiceless writing is just as
 ## Style Patterns
 
 ### 13. Em Dash Overuse
-**Problem:** AI uses em dashes far more than humans. In fiction, em dashes are acceptable but should not appear multiple times per paragraph.
+**Problem:** AI uses em dashes far more than humans. Hard limit: **1-2 em dashes per chapter**. This is the single most reliable punctuation-level AI tell. Replace with semicolons, colons, periods, commas, or reword. When you find more than 2, keep only the strongest 1-2 uses and rewrite the rest.
 
 ### 14. Boldface Overuse
 **Problem:** Mechanical emphasis. In fiction prose, boldface should be rare to nonexistent.

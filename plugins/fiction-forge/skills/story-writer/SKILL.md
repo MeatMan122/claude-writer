@@ -22,6 +22,7 @@ Before writing a single word, gather context:
    - Pay special attention to Voice Profile for the POV character
    - **Also load Voice Profiles for other POV characters** (not just the current one) — you need to know what makes this POV distinct from the others
    - Check Current State for any characters who have changed since their entry was written
+   - **Character competency check**: Note each character's specific role, expertise, and field. Never attribute the wrong competency to the wrong character — a biologist doesn't "build the math," an engineer doesn't design the theory. When writing dialogue, internal attribution, or narration about what a character did or knows, verify it matches their actual role in the appendix
 
 3. **Read location profiles** for settings in this chapter
 
@@ -97,7 +98,8 @@ Load these additional McKee references:
 
 Re-read the Phase 1 output. Find `<!-- ENRICH -->` markers and scan for any passage that is:
 - **Vague or generic** — "He checked the instruments" → what instruments? What did he see? Make it specific enough to picture.
-- **Technobabble without meaning** — "Structural loads on the resonance array" sounds like sci-fi but paints no picture. Ask: what IS this? Either make it concrete (describe what someone would actually see, hear, or do with this thing) or simplify/remove it.
+- **Technobabble without meaning** (zero tolerance) — "Structural loads on the resonance array" sounds like sci-fi but paints no picture. The test: **can you draw what this describes?** If a reader cannot form a mental image, the words are noise. Either make it concrete (describe what someone would actually see, hear, or do with this thing) or cut it entirely. Do not leave vague technobabble standing.
+- **Verisimilitude failure** — Every concrete detail must survive the question: **would this actually happen this way in this universe?** A "sun-bleached" registration stamp in space, a character "noting" something that's never mentioned, equipment whose function contradicts the story's needs. If a detail exists only for atmosphere but contradicts how things actually work in the setting, rewrite it so the atmosphere comes from something true.
 - **Lacking voice distinctness** — dialogue where characters sound interchangeable. Apply Voice Profiles.
 - **Missing subtext** — dialogue that is "on the nose" (characters saying exactly what they mean). Rewrite the surface so the real meaning is underneath.
 - **Sensory-poor** — passages that tell but don't ground the reader in the physical experience.
@@ -143,6 +145,9 @@ One last check:
 - No "Moreover," "Furthermore," "It is worth noting that"
 - No hedging in narrative voice: "seemed to," "appeared to," "somewhat"
 - Prefer concrete, specific words over abstract, general ones
+- **Em dash hard limit: 1-2 per chapter.** Replace the rest with semicolons, colons, periods, commas, or reword. This is the single most reliable punctuation-level AI tell
+- **"Not X, but Y" limit: once per chapter maximum.** Show instead of negate-then-state
+- **Aphoristic non-truths**: If a line sounds like a quotable proverb, verify it's actually true and specific — not just performing wisdom
 
 Edit the chapter in-place.
 

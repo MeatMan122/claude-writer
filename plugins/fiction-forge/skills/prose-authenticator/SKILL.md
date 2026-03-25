@@ -59,6 +59,8 @@ Flag these patterns:
 - Purple prose: overwrought descriptions stacked with adjectives and metaphors
 - Melodramatic emotional descriptions: "A wave of [emotion] crashed over [character]"
 - Filter words in tight POV: "She realized," "He noticed," "She felt"
+- **"Not X, but Y" constructions**: "Not fear — concentration." AI overuses this negation-then-correction structure. Once per chapter maximum. Show instead of negate-then-state
+- **Aphoristic non-truths**: Lines that sound quotable but aren't actually true on examination. "Instruments lie" — no they don't. If a line performs wisdom, verify it's actually wise and specific to the character thinking it
 
 ### Hedging in Narrative Voice
 Flag wishy-washy narrative:
