@@ -76,8 +76,11 @@ For each beat:
 
 ### Load McKee References
 Before filling beats, read these reference files for the structural principles that govern beat design:
-- `${CLAUDE_PLUGIN_ROOT}/references/mckee-sequence-and-act.md` — how sequences build within acts, progressive complications, subplot integration, midpoint design
-- `${CLAUDE_PLUGIN_ROOT}/references/mckee-principles.md` — inciting incident design, act proportions, working backward from climax
+- `${CLAUDE_PLUGIN_ROOT}/references/mckee/sequence-and-act.md` — how sequences build within acts, progressive complications, subplot integration, midpoint design
+- `${CLAUDE_PLUGIN_ROOT}/references/mckee/story-triangle.md` — the three fundamental design patterns (Archplot, Miniplot, Antiplot) and the seven structural dimensions
+- `${CLAUDE_PLUGIN_ROOT}/references/mckee/inciting-incident.md` — inciting incident design, conscious vs. unconscious desire, the spine
+- `${CLAUDE_PLUGIN_ROOT}/references/mckee/act-design.md` — act proportions, progressive complications, working backward from climax
+- `${CLAUDE_PLUGIN_ROOT}/references/mckee/controlling-idea.md` — the story's ultimate meaning as a single sentence combining value and cause
 
 Key McKee principles to apply:
 - Every beat must turn a value (positive → negative or vice versa)

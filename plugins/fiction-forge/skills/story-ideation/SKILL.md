@@ -103,7 +103,7 @@ Build from thematic question toward everything else.
 Once there's a kernel of an idea (from the user or from exercises), explore it through conversation:
 
 ### Characters
-Read `${CLAUDE_PLUGIN_ROOT}/references/mckee-character-dimension.md` for the principles below.
+Read `${CLAUDE_PLUGIN_ROOT}/references/mckee/character-dimension.md` for the principles below.
 
 - Who is the protagonist? What do they want? What do they need (that they might not know)? (McKee's conscious vs. unconscious desire — the tension between these drives the character arc)
 - Who opposes them? Why? What does the antagonist want? (The protagonist is only as compelling as the forces opposing them)

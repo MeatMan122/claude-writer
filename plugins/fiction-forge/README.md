@@ -33,7 +33,7 @@ Throughout the process, Fiction Forge maintains a **story appendix** — a livin
 | Story Outline (Broad) | Structure selection and high-level plot mapping |
 | Story Outline (Detailed) | Scene-by-scene expansion with subtext and value shifts |
 | Story Writing Plan | Chapter breakdown with POV, pacing, and structural tracking |
-| Story Writer | Chapter drafting with voice calibration and craft principles |
+| Story Writer | Three-phase chapter drafting: structure → enrichment → craft polish |
 | Story Consistency | Verifies content against the appendix, timeline, and outline |
 | Prose Authenticator | Ensures prose sounds human — catches AI tells, improves craft (6-layer system) |
 | Humanizer | Detects and removes 25 distinct AI-writing patterns from prose and project documents |

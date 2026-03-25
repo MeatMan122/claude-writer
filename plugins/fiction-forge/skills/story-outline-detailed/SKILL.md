@@ -13,9 +13,12 @@ Expand the broad outline into a scene-by-scene treatment following McKee's insid
 1. Read `outline/broad-outline.md` for the structural skeleton
 2. Read relevant appendix entries for all established characters, locations, world rules
 3. Read SCRATCHPAD.md for recent context
-4. **Load McKee scene design reference**: Read `${CLAUDE_PLUGIN_ROOT}/references/mckee-scene-design.md` — apply the Gap principle (what does the character expect vs. what actually happens?), beat construction, and scene-as-miniature-story structure to every scene you design
-5. **Load McKee sequence and act reference**: Read `${CLAUDE_PLUGIN_ROOT}/references/mckee-sequence-and-act.md` — group scenes into sequences with identified sequence climaxes; ensure progressive complications escalate across sequences
-6. **Load McKee character dimension reference**: Read `${CLAUDE_PLUGIN_ROOT}/references/mckee-character-dimension.md` — each scene should reveal character through choices under pressure, not just advance plot. Use the pressure test: design scenes that force characters into dilemmas
+4. **Load McKee scene design references**:
+   - Read `${CLAUDE_PLUGIN_ROOT}/references/mckee/scene-structure.md` — build each scene as a miniature story with objective, conflict, beats, turning point, and value change
+   - Read `${CLAUDE_PLUGIN_ROOT}/references/mckee/the-gap.md` — apply the Gap principle (what does the character expect vs. what actually happens?) at all three levels
+   - Read `${CLAUDE_PLUGIN_ROOT}/references/mckee/beats-and-subtext.md` — beat construction, subtextual naming, and text/subtext design
+5. **Load McKee sequence and act reference**: Read `${CLAUDE_PLUGIN_ROOT}/references/mckee/sequence-and-act.md` — group scenes into sequences with identified sequence climaxes; ensure progressive complications escalate across sequences
+6. **Load McKee character dimension reference**: Read `${CLAUDE_PLUGIN_ROOT}/references/mckee/character-dimension.md` — each scene should reveal character through choices under pressure, not just advance plot. Use the pressure test: design scenes that force characters into dilemmas
 
 ## The Expansion Process
 
