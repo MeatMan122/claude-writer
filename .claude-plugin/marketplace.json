@@ -6,7 +6,7 @@
   "plugins": [
     {
       "name": "fiction-forge",
-      "source": ".",
+      "source": "./plugins/fiction-forge",
       "description": "A comprehensive fiction writing studio that guides you from initial spark to finished manuscript, following the structural principles of Robert McKee's Story."
     }
   ]

@@ -1,0 +1,9 @@
+{
+  "name": "fiction-forge",
+  "version": "0.2.0",
+  "description": "A comprehensive fiction writing studio that guides you from initial spark to finished manuscript, following the structural principles of Robert McKee's Story.",
+  "author": {
+    "name": "Your Lordship"
+  },
+  "keywords": ["fiction", "writing", "novel", "story", "creative-writing", "mckee"]
+}
