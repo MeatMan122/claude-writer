@@ -1,0 +1,5 @@
+# Working materials — not part of the plugin
+additional_references/
+
+# Claude Code session files
+.claude/settings.local.json
