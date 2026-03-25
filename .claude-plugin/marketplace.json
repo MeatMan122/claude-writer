@@ -1,0 +1,13 @@
+{
+  "name": "claude-writer",
+  "owner": {
+    "name": "MeatMan122"
+  },
+  "plugins": [
+    {
+      "name": "fiction-forge",
+      "source": ".",
+      "description": "A comprehensive fiction writing studio that guides you from initial spark to finished manuscript, following the structural principles of Robert McKee's Story."
+    }
+  ]
+}
